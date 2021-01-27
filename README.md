@@ -9,6 +9,8 @@ ________________________________________________________________________________
 **Output**:
 Return the profits from each group separated by a newline. Make sure to add a newline at the end of your returned answer. This is needed to match the format for the task result.
 __________________________________________________________________________________
+**optional challenge: write your code in under 9 lines**
+
 This problem deals with if statements, lists, mapping (depends on how you solve the problem), and for loops (depends on how you solve this problem). **Do your research if you need it.**
 
 For additional help, either ask Paul, Joshua, Mr. Blatner, or any other staff member for assistance. If multiple people have the same obstacles, we would be able to go over them during the club. 
