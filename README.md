@@ -1,7 +1,7 @@
 # PPSC_task_7: Movie Ticket Profits
 **| difficulty: 2/10 |**
 
-You are in charge of calculating the movie theatre's profits just on its tickets. Adults are charged 25 dollars each, teens pay 15 dollars each, and children cost 5 dollars each, *unless* there are at least 2 adults present. 
+You are in charge of calculating the movie theatre's profits just on its tickets. Adults are charged 25 dollars each, teens pay 15 dollars each, and children cost 5 dollars each, *unless* there are at least 2 adults present, in which case children enter for free. 
 __________________________________________________________________________________
 **Input**:
 You are given a list of strings, each containing how many adult, teenager, and children tickets a group needs. "|adults| |teenagers| |children|" 
